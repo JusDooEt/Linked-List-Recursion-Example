@@ -13,4 +13,4 @@ This function receives a pointer to the top of the stack and assigns the pointer
 ## void showRtoL(Student*& head)
 This function has a similar task as the previous function but must use recursive function calls to achieve its task. The recursion base condition is if the temp ptr being recursively passed is equal to NULL. Otherwise, the function will call itself recursively. Once the base condition is met ,when the end of the list is found, the function will output the student list from right to left / bottom to top. 
 
-![image](https://github.com/JusDooEt/Linked-List-Recursion-Example/assets/152052216/3a73c853-5028-4fc2-bd01-97eb18c9e842)
+
